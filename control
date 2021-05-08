@@ -2,7 +2,7 @@ Package: com.karin722.nobreadcrumbs
 Name: NoBreadcrumbs
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Hide Breadcrumbs.
 Maintainer: karin722
 Author: karin722
 Section: Tweaks
